@@ -8,6 +8,6 @@ Easily upload ad images and ad code to your sidebar. For those that don't need o
 want a complicated ad management system.
 
 
-<b>(--Description--)</b>
+<b>(--Description--)</b><br>
 This is the easiest way to place ads in your Wordpress site. Just drag a widget
 to the sidebar, upload, an ad, and save.
