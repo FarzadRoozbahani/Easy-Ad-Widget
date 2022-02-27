@@ -1,6 +1,5 @@
-=== Plugin Name ===
-Contributors: FarzadRoozbahani
-Tags: wordpress,ad,widget,sidebar,google,tag,code
+Contributors: FarzadRoozbahani,broadstreetads
+Tags: wordpress,ad,widget,sidebar,google,tag,code,ad_widget,ad_manager
 Requires at least: 3.0
 Tested up to: 5.8
 Stable tag: 2.20.0
